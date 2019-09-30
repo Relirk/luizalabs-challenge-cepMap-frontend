@@ -1,0 +1,53 @@
+header#main-header {
+  background: #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+header#main-header .header-content {
+  width: 100%;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 30px 30px;
+}
+
+header#main-header .header-content .title {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  margin-top: 0;
+}
+
+header#main-header .header-content .title > h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+header#main-header .header-content .search {
+  display: flex;
+  align-items: center;
+}
+
+header#main-header .header-content .search > .search-input {
+  border: solid 1px #b2b1b1;
+  padding-left: 12px;
+  margin: 0 14px;
+  background-color: white;
+}
+
+header#main-header .header-content .search > p {
+  font-size: 20px;
+  color: #737272;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+header#main-header .header-content .search > .search-button {
+  background-color: #1975d2;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+header#main-header .header-content .search > .search-button > span > p {
+  text-transform: capitalize;
+  font-weight: 500;
+}
