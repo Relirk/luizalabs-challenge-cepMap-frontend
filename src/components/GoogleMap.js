@@ -1,7 +1,6 @@
 import React from "react";
 import { Map, Marker, GoogleApiWrapper } from "google-maps-react";
 import { Typography } from "@material-ui/core";
-import { Add } from "@material-ui/icons";
 
 import "./GoogleMap.css";
 
