@@ -1,12 +1,12 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
 
-import Feed from "./pages/Feed";
+import Home from "./pages/Home";
 
 function Routes() {
   return (
     <Switch>
-      <Route path="/" exact component={Feed} />
+      <Route path="/" exact component={Home} />
     </Switch>
   );
 }
