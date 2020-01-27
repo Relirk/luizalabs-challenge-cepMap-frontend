@@ -1,5 +1,8 @@
 # DESAFIO FRONTEND LUIZALABS
 Este repositório contém uma simples interface front-end para o desafio de front-end do LuizaLabs.
+Todo layout da aplicação foi baseado em um escopo previamente obtido atravez do Luizalabs.
+
+![Screenshot 1](luizalabs.png)
 
 Tecnologias utilizadas:
 * [ReactJS](https://reactjs.org/)
