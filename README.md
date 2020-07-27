@@ -1,4 +1,20 @@
-# DESAFIO FRONTEND LUIZALABS
+# Desafio Front End LuizaLabs (Magazine Luiza)
+<p align="left">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Relirk/luizalabs-challenge-cepMap-frontend">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Relirk/luizalabs-challenge-cepMap-frontend">
+  
+  <a href="https://github.com/Relirk/luizalabs-challenge-cepMap-frontend/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Relirk/luizalabs-challenge-cepMap-frontend">
+  </a>
+
+  <a href="https://github.com/Relirk/luizalabs-challenge-cepMap-frontend/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Relirk/luizalabs-challenge-cepMap-frontend">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 Este repositório contém uma simples interface front-end para o desafio de front-end do LuizaLabs.
 Todo layout da aplicação foi baseado em um escopo previamente obtido atravez do Luizalabs.
 
